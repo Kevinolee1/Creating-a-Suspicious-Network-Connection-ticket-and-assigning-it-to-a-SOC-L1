@@ -10,3 +10,5 @@ Type in the security alert information and the issue summary.
 Login the admin account.
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Suspicious-Network-Connection-ticket-and-assigning-it-to-a-SOC-L1/blob/fc17fd3f4fca9b73e828ec0585af2dfc6fd6a522/Screenshot%202026-08-16%20013759.png)
 Change the priority the high.
+![Image alt](https://github.com/Kevinolee1/Creating-a-Suspicious-Network-Connection-ticket-and-assigning-it-to-a-SOC-L1/blob/f407ebf4a1507b1a294e38db8db5f7ba92b7cc03/Screenshot%202026-08-16%20013900.png)
+Assign to ticket to your SOC L1
