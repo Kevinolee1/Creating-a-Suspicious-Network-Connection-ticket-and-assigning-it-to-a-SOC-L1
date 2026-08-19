@@ -4,3 +4,5 @@ A suspicious outbound network connection was detected from an internal workstati
 Click on open new ticket.
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Suspicious-Network-Connection-ticket-and-assigning-it-to-a-SOC-L1/blob/ee52739e53c1db307151ae09cda6ef6f2a13fde5/Screenshot%202026-08-16%20013107.png)
 Type in the victim's email and name. In the help topic box, switch it to security incident. Type what the is issue is in the issue summary box.
+![Image alt](https://github.com/Kevinolee1/Creating-a-Suspicious-Network-Connection-ticket-and-assigning-it-to-a-SOC-L1/blob/1d1bd6ce491ae45e91386bacd983efa7fbed24e8/Screenshot%202026-08-16%20013502.png)
+Type in the security alert information and the issue summary.
