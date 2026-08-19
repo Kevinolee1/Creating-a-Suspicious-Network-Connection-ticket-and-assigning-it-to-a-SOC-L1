@@ -6,3 +6,5 @@ Click on open new ticket.
 Type in the victim's email and name. In the help topic box, switch it to security incident. Type what the is issue is in the issue summary box.
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Suspicious-Network-Connection-ticket-and-assigning-it-to-a-SOC-L1/blob/1d1bd6ce491ae45e91386bacd983efa7fbed24e8/Screenshot%202026-08-16%20013502.png)
 Type in the security alert information and the issue summary.
+![Image alt](https://github.com/Kevinolee1/Creating-a-Suspicious-Network-Connection-ticket-and-assigning-it-to-a-SOC-L1/blob/5a786836253aeb3e1facd961d6c16aee02c0461c/Screenshot%202026-08-18%20011200.png)
+Login the admin account.
