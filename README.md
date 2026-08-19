@@ -8,3 +8,5 @@ Type in the victim's email and name. In the help topic box, switch it to securit
 Type in the security alert information and the issue summary.
 ![Image alt](https://github.com/Kevinolee1/Creating-a-Suspicious-Network-Connection-ticket-and-assigning-it-to-a-SOC-L1/blob/5a786836253aeb3e1facd961d6c16aee02c0461c/Screenshot%202026-08-18%20011200.png)
 Login the admin account.
+![Image alt](https://github.com/Kevinolee1/Creating-a-Suspicious-Network-Connection-ticket-and-assigning-it-to-a-SOC-L1/blob/fc17fd3f4fca9b73e828ec0585af2dfc6fd6a522/Screenshot%202026-08-16%20013759.png)
+Change the priority the high.
